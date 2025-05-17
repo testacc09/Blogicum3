@@ -59,7 +59,7 @@ pip install -r requirements.txt
 ```python
 python3 manage.py migrate
 ```
-Создать суперпользователя (если необходимо):
+Создать суперпользователя:
 ```python
 python manage.py createsuperuser
 ```
